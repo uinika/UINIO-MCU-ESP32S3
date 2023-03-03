@@ -12320,7 +12320,7 @@
   (gr_text "3V3" (at 123.59747 92.796956 90) (layer "F.SilkS") (tstamp b864612d-94dd-465c-b8ee-aafcf33dbfde)
     (effects (font (size 0.8 0.8) (thickness 0.15) bold) (justify left bottom))
   )
-  (gr_text "GND" (at 121.037423 93.025527 90) (layer "F.SilkS") (tstamp b8f688a4-7889-4ace-870a-003f8c9eff45)
+  (gr_text "GND" (at 121.04747 93.029337 90) (layer "F.SilkS") (tstamp b8f688a4-7889-4ace-870a-003f8c9eff45)
     (effects (font (size 0.8 0.8) (thickness 0.15) bold) (justify left bottom))
   )
   (gr_text "G18" (at 136.27665 92.911242 90) (layer "F.SilkS") (tstamp bf2fe49e-b6f3-423e-9fe3-9d517803eda4)
