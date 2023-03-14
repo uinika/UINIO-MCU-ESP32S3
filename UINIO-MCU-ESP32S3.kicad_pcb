@@ -11113,7 +11113,7 @@
     (effects (font (size 0.8 0.8) (thickness 0.15) bold) (justify left bottom))
   )
   (gr_text "REST" (at 135.91747 102.309337 90) (layer "F.SilkS") (tstamp 13134741-fee3-4ea2-b041-3ab5a1639b0d)
-    (effects (font (face "Source Han Sans SC") (size 0.9 0.9) (thickness 0.15) bold) (justify left bottom))
+    (effects (font (face "思源黑体") (size 0.9 0.9) (thickness 0.15) bold) (justify left bottom))
     (render_cache "REST" 90
       (polygon
         (pts
@@ -11439,8 +11439,8 @@
       )
     )
   )
-  (gr_text "↔" (at 112.06668 105.489337) (layer "F.SilkS") (tstamp 2369c2b3-2c03-40f7-9643-10006e556ea1)
-    (effects (font (size 1 1) (thickness 0.1)) (justify left bottom))
+  (gr_text "↔" (at 111.97747 105.529337) (layer "F.SilkS") (tstamp 2369c2b3-2c03-40f7-9643-10006e556ea1)
+    (effects (font (size 1.1 1.1) (thickness 0.1)) (justify left bottom))
   )
   (gr_text "GND" (at 126.111191 105.529337 90) (layer "F.SilkS") (tstamp 23f839c5-9a9c-4b36-9630-be10a2ea1be7)
     (effects (font (size 0.8 0.8) (thickness 0.15) bold) (justify left bottom))
@@ -12003,7 +12003,7 @@
     )
   )
   (gr_text "PSRAM" (at 152.03747 99.991801 90) (layer "F.SilkS") (tstamp 82159123-2b85-44b9-b389-321780da1b31)
-    (effects (font (face "Source Han Sans SC") (size 0.8 0.8) (thickness 0.15) bold) (justify left bottom))
+    (effects (font (face "思源黑体") (size 0.8 0.8) (thickness 0.15) bold) (justify left bottom))
     (render_cache "PSRAM" 90
       (polygon
         (pts
@@ -12215,7 +12215,7 @@
     (effects (font (size 0.8 0.8) (thickness 0.15) bold) (justify left bottom))
   )
   (gr_text "BOOT" (at 135.908735 97.199337 90) (layer "F.SilkS") (tstamp 9604cd29-8a60-493f-bd0c-6ff840b6f082)
-    (effects (font (face "Source Han Sans SC") (size 0.9 0.9) (thickness 0.15) bold) (justify left bottom))
+    (effects (font (face "思源黑体") (size 0.9 0.9) (thickness 0.15) bold) (justify left bottom))
     (render_cache "BOOT" 90
       (polygon
         (pts
@@ -12973,7 +12973,7 @@
     (effects (font (size 0.8 0.8) (thickness 0.15) bold) (justify left bottom))
   )
   (gr_text "Flash" (at 143.92747 99.683252 90) (layer "F.SilkS") (tstamp cecb052e-1a11-4f29-acdb-199d6f20675e)
-    (effects (font (face "Source Han Sans SC") (size 0.9 0.9) (thickness 0.15) bold) (justify left bottom))
+    (effects (font (face "思源黑体") (size 0.9 0.9) (thickness 0.18) bold) (justify left bottom))
     (render_cache "Flash" 90
       (polygon
         (pts
