@@ -13598,7 +13598,7 @@
   (gr_text "SPIHD" (at 132.51747 105.699337 45) (layer "F.SilkS") (tstamp eafa60e3-3467-4e3f-8a94-c262fa2aab56)
     (effects (font (size 0.7 0.7) (thickness 0.15) bold) (justify left bottom))
   )
-  (gr_text "SPID" (at 145.61747 105.709337 45) (layer "F.SilkS") (tstamp ecc3bf38-1c4f-4f54-a1af-c5257f8ad2e8)
+  (gr_text "SPID" (at 145.54747 105.709337 45) (layer "F.SilkS") (tstamp ecc3bf38-1c4f-4f54-a1af-c5257f8ad2e8)
     (effects (font (size 0.7 0.7) (thickness 0.15) bold) (justify left bottom))
   )
   (gr_text "G46" (at 182.032274 105.529337 90) (layer "F.SilkS") (tstamp ee16fb6f-df21-4b44-8b55-8a29b5f942b5)
