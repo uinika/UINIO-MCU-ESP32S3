@@ -1,5 +1,5 @@
-### Footprint positions - created on Tue Apr  4 00:11:08 2023 ###
-### Printed by KiCad version 7.0.1
+### Footprint positions - created on Thu Jul  6 11:03:44 2023 ###
+### Printed by KiCad version 7.0.5
 ## Unit = mm, Angle = deg.
 ## Side : All
 # Ref     Val               Package                                 PosX       PosY       Rot  Side
@@ -41,7 +41,7 @@ R5        10K               R_0402_1005Metric                    18.1692   -11.5
 R6        10K               R_0402_1005Metric                    71.6692   -10.7957   90.0000  top
 R7        10K               R_0402_1005Metric                    16.7892    -4.4872   90.0000  top
 R8        10K               R_0402_1005Metric                    20.6692    -4.4872   90.0000  top
-R9        10K               R_0402_1005Metric                    26.7592    -3.4157  180.0000  top
+R9        10K               R_0402_1005Metric                    26.8813    -3.4100  180.0000  top
 SW1       复位            KEY-SMD_4P-L4.2-W3.4-P2.15-LS4.7     35.4900    -9.7600    0.0000  top
 SW2       启动选择      KEY-SMD_4P-L4.2-W3.4-P2.15-LS4.7     35.4913    -4.5100  180.0000  top
 U1        ME6211C33M5G-N    SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR    13.1892    -5.4057  -90.0000  top
