@@ -6,7 +6,7 @@
 
 ![](./Images/PCB-3D-2.png)
 
-## 评估板简介
+## 核心板简介
 
 - 完整兼容官方的 [Arduino-ESP32](https://docs.espressif.com/projects/arduino-esp32/en/latest/) 板级支持包；
 - 采用 LDO 低压差线性稳压芯片 `ME6211C33M5G` 提供 `3.3V` 电源；
@@ -21,4 +21,3 @@
 3. `GPIO11` 默认为 SPI 接口 Flash 存储器的 `VDD` 引脚，需要配置之后才能作为 GPIO 使用；
 4. 外置的 `W25Q128JVSSIQ` 型 Flash 存储器，其 `VDD` 已经连接至 `3.3V` 电源，使用时无需再行配置，Flash 采用普通的两线制 SPI 总线进行通信；
 5. `IO12`、`IO13` 在 **QIO** 模式下被复用为 SPI 信号线 `SPIHD` 和 `SPIWP`，本开发板采用两线制 SPI 的 **DIO** 模式，使用时需要注意将 Flash 配置为 **DIO** 模式；
-
