@@ -1,6 +1,6 @@
 # UINIO-MCU-ESP32S3 核心板
 
-[**UINIO-MCU-ESP32S3**](https://github.com/uinika/UINIO-MCU-ESP32S3) 是一款采用 [上海乐鑫科技](https://www.espressif.com.cn) **ESP32-S3** 微控制器的核心板电路设计，该微控制器基于 **Xtensa® dual-core 32-bit LX7** 架构，拥有 45 个 GPIO 接口，主频高达 `240MHz`，同时具备 **2.4GHz Wi-Fi** 与 **Bluetooth5** 两种物联网接入能力。片上载有 `384KB` 容量的 **ROM**，以及 `512KB` 容量的 **SRAM** 和 `16KB` 容量的 **RTCSRAM**。
+[**UINIO-MCU-ESP32S3**](https://gitee.com/uinika/UINIO-MCU-ESP32S3) 是一款采用 [上海乐鑫科技](https://www.espressif.com.cn) **ESP32-S3** 微控制器的核心板电路设计，该微控制器基于 **Xtensa® dual-core 32-bit LX7** 架构，拥有 45 个 GPIO 接口，主频高达 `240MHz`，同时具备 **2.4GHz Wi-Fi** 与 **Bluetooth5** 两种物联网接入能力。片上载有 `384KB` 容量的 **ROM**，以及 `512KB` 容量的 **SRAM** 和 `16KB` 容量的 **RTCSRAM**。
 
 ![](./Images/PCB-3D-1.png)
 
