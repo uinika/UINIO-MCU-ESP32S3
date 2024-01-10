@@ -13,3 +13,7 @@
 **/Libraries/**/*.License.*
 
 **/_autosave-**.kicad_sch
+
+*.kicad_sch.lck
+
+*.kicad_pcb.lck
