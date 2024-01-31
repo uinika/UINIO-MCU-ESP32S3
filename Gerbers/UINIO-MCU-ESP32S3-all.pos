@@ -1,5 +1,5 @@
-### Footprint positions - created on Wed Jan 10 12:03:35 2024 ###
-### Printed by KiCad version 7.0.9
+### Footprint positions - created on Wed Jan 31 15:31:25 2024 ###
+### Printed by KiCad version 7.0.10
 ## Unit = mm, Angle = deg.
 ## Side : All
 # Ref     Val               Package                                 PosX       PosY       Rot  Side
@@ -9,10 +9,10 @@ C1        1uF               C_0402_1005Metric                    12.7192    -7.7
 C2        1uF               C_0402_1005Metric                    12.7192    -3.0257  180.0000  top
 C3        0.1uF             C_0402_1005Metric                    74.0900    -4.5000  -90.0000  top
 C4        1uF               C_0402_1005Metric                    75.9300    -4.5000  -90.0000  top
-C5        TBD               C_0402_1005Metric                    81.8100    -5.3200   90.0000  top
+C5        TBD               C_0402_1005Metric                    82.2700    -5.3200   90.0000  top
 C6        10uF              C_0402_1005Metric                    77.7800    -4.5000  -90.0000  top
 C7        0.1uF             C_0402_1005Metric                    74.5192    -2.6357    0.0000  top
-C8        TBD               C_0402_1005Metric                    79.0300    -6.2800  -90.0000  top
+C8        TBD               C_0402_1005Metric                    79.4900    -6.2800  -90.0000  top
 C9        1uF               C_0402_1005Metric                    75.9392    -7.0957   90.0000  top
 C10       10nF              C_0402_1005Metric                    74.0992    -7.0957   90.0000  top
 C11       0.1uF             C_0402_1005Metric                    18.1492    -7.3908  180.0000  top
@@ -32,7 +32,7 @@ HOLE**    Hole-1mm          Hole-1mm                             85.5492   -15.9
 HOLE**    Hole-1mm          Hole-1mm                             14.4163   -15.9457    0.0000  top
 J1        Conn_01x03_Pin    PinHeader_1x03_P2.54mm_Vertical       6.7392   -15.9457   90.0000  top
 J3        Conn_01x04_Pin    PinHeader_1x04_P2.54mm_Vertical       4.1892     1.6643   90.0000  top
-L1        TBD               L_0402_1005Metric                    80.4200    -5.8000  180.0000  top
+L1        TBD               L_0402_1005Metric                    80.8800    -5.8000  180.0000  top
 R1        5.1K              R_0402_1005Metric                    12.7392    -1.9457  180.0000  top
 R2        5.1K              R_0402_1005Metric                    12.5067   -12.5857    0.0000  top
 R3        2K                R_0402_1005Metric                    12.5067   -11.5257    0.0000  top
