@@ -1,4 +1,4 @@
-### Footprint positions - created on Tue Mar  5 14:28:52 2024 ###
+### Footprint positions - created on Tue Mar  5 16:09:44 2024 ###
 ### Printed by KiCad version 7.0.11
 ## Unit = mm, Angle = deg.
 ## Side : All
@@ -17,8 +17,8 @@ C11       0.1uF             C_0402_1005Metric                    18.1492    -7.3
 C12       0.1uF             C_0402_1005Metric                    61.3392    -2.8657  180.0000  top
 C13       0.1uF             C_0402_1005Metric                    23.5392   -10.1600    0.0000  top
 C14       0.1uF             C_0402_1005Metric                    23.5092    -8.4400    0.0000  top
-C15       15pF              C_0402_1005Metric                    78.7592    -9.4057  180.0000  top
-C16       15pF              C_0402_1005Metric                    78.7692   -11.0957    0.0000  top
+C15       15pF              C_0402_1005Metric                    78.7592    -9.1457  180.0000  top
+C16       15pF              C_0402_1005Metric                    78.7692   -10.8457    0.0000  top
 C17       1uF               C_0402_1005Metric                    26.8613    -5.3000  180.0000  top
 C18       0.1uF             C_0402_1005Metric                    59.3500    -7.1328   90.0000  top
 C19       0.1uF             C_0402_1005Metric                    70.4792   -10.8157   90.0000  top
