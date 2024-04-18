@@ -1,4 +1,4 @@
-### Footprint positions - created on Sat Mar 30 01:51:07 2024 ###
+### Footprint positions - created on Thu Apr 18 22:47:03 2024 ###
 ### Printed by KiCad version 7.0.11
 ## Unit = mm, Angle = deg.
 ## Side : All
@@ -7,12 +7,12 @@ J2        Conn_01x27_Pin    PinHeader_1x27_P2.54mm_Vertical      83.1113     1.6
 J4        Conn_01x27_Pin    PinHeader_1x27_P2.54mm_Vertical      83.1113   -15.9457   90.0000  bottom
 C1        1uF               C_0402_1005Metric                    12.7192    -7.7957  180.0000  top
 C2        1uF               C_0402_1005Metric                    12.7192    -3.0257  180.0000  top
-C3        0.1uF             C_0402_1005Metric                    74.0900    -4.5000  -90.0000  top
-C4        1uF               C_0402_1005Metric                    75.9300    -4.5000  -90.0000  top
-C6        10uF              C_0402_1005Metric                    77.7800    -4.5000  -90.0000  top
-C7        0.1uF             C_0402_1005Metric                    74.5192    -2.6357    0.0000  top
-C9        1uF               C_0402_1005Metric                    75.9392    -7.0957   90.0000  top
-C10       10nF              C_0402_1005Metric                    74.0992    -7.0957   90.0000  top
+C3        0.1uF             C_0402_1005Metric                    74.0900    -3.6300  -90.0000  top
+C4        1uF               C_0402_1005Metric                    75.9300    -3.6300  -90.0000  top
+C6        10uF              C_0402_1005Metric                    77.7800    -3.6300  -90.0000  top
+C7        0.1uF             C_0402_1005Metric                    74.5192    -2.1000    0.0000  top
+C9        1uF               C_0402_1005Metric                    76.3700    -7.5700    0.0000  top
+C10       10nF              C_0402_1005Metric                    73.6200    -7.5800    0.0000  top
 C11       0.1uF             C_0402_1005Metric                    18.1492    -7.3908  180.0000  top
 C12       0.1uF             C_0402_1005Metric                    61.3392    -2.8657  180.0000  top
 C13       0.1uF             C_0402_1005Metric                    23.5392   -10.1600    0.0000  top
@@ -34,7 +34,7 @@ L1        AN9520-245        ANT-SMD_L9.5-W2.1                    85.5492    -7.1
 R1        5.1K              R_0402_1005Metric                    12.7392    -1.9457  180.0000  top
 R2        5.1K              R_0402_1005Metric                    12.5067   -12.5857    0.0000  top
 R3        2K                R_0402_1005Metric                    12.5067   -11.5257    0.0000  top
-R4        10K               R_0402_1005Metric                    77.7392    -2.6657  180.0000  top
+R4        10K               R_0402_1005Metric                    77.7392    -2.1300  180.0000  top
 R5        10K               R_0402_1005Metric                    18.1692   -11.5207  180.0000  top
 R6        10K               R_0402_1005Metric                    71.6692   -10.7957   90.0000  top
 R7        10K               R_0402_1005Metric                    16.7892    -4.4872   90.0000  top
