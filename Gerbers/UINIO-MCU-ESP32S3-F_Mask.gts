@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,7.0.11*%
-%TF.CreationDate,2024-04-20T17:38:27+08:00*%
+%TF.CreationDate,2024-04-20T17:50:27+08:00*%
 %TF.ProjectId,UINIO-MCU-ESP32S3,55494e49-4f2d-44d4-9355-2d4553503332,Version 3.5.0*%
 %TF.SameCoordinates,PX629df6ePY56b2a99*%
 %TF.FileFunction,Soldermask,Top*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.11) date 2024-04-20 17:38:27*
+G04 Created by KiCad (PCBNEW 7.0.11) date 2024-04-20 17:50:27*
 %MOMM*%
 %LPD*%
 G01*
